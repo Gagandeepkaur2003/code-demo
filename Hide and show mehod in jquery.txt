@@ -1,0 +1,68 @@
+<html>
+<head>
+<title>Jquery</title>
+<script src="js/jquery-3.6.0.min.js"></script>
+<script>
+$(document).ready(function(){
+	//hide effect
+	$('#hide').click(function(){
+	$('#one').hide(1000);
+	});
+	
+	$('#hide').click(function(){
+	$('#two').hide(3000);
+	});
+	
+	$('#hide').click(function(){
+	$('#three').hide(5000);
+	});
+	
+	$('#hide').click(function(){
+	$('#four').hide(7000);
+	});
+	
+	$('#hide').click(function(){
+	$('#five').hide(9000);
+	});
+	
+	//show effect
+	$('#show').click(function(){
+	$('#one').show(1000);
+	});
+	
+	$('#show').click(function(){
+	$('#two').show(3000);
+	});
+	
+	$('#show').click(function(){
+	$('#three').show(5000);
+	});
+	
+	$('#show').click(function(){
+	$('#four').show(7000);
+	});
+	
+	$('#show').click(function(){
+	$('#five').show(9000);
+	});
+	
+	});
+</script>
+</head>
+<body>
+
+<p id="one">This is first paragraph</p>
+<br>
+<p id="two">This is second paragraph</p>
+<br>
+<p id="three">This is third paragraph</p>
+<br>
+<p id="four">This is fourth paragraph</p>
+<br>
+<p id="five">This is fifth paragraph</p>
+
+<button id="hide">Hide</button>
+<br><br>
+<button id="show">Show</button>
+</body>
+</html>
