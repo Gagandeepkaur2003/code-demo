@@ -1,23 +1,3 @@
-<!-- <!DOCTYPE html>
-<html>
-<head>
-	<title>Javascript Practice</title>
-</head>
-<body>
-<h1>This is the Heading</h1>
-<p>
-	Lorem ipsum dolor sit amet. Est distinctio eveniet sit porro qui odit minus. Est repudiandae reprehenderit aut animi dignissimos et quis perspiciatis quo internos omnis et delectus perferendis non galisum aspernatur non explicabo perspiciatis.
-
-Vel repudiandae beatae et doloribus laudantium et galisum voluptatem a omnis tempora est omnis voluptatem et totam eligendi a nemo eius. Qui molestiae suscipit ex consequatur omnis ex eveniet quibusdam et sequi eius ut laudantium recusandae sed deleniti esse! Nam debitis reiciendis eum nostrum nihil 33 dolores cupiditate aut eveniet numquam aut voluptatem cupiditate qui tempora porro.
-</p>
-
-<script type="text/javascript" src="Variables,datatypes and operators.js"></script>
-</body>
-</html> -->
-
-
-
-
 <html>
 <head>
 <title>Color Change on clicking</title>
